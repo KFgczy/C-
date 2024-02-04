@@ -1,0 +1,8 @@
+﻿  5.数组.cpp
+D:\code\Codes\C++\heima\Project\P1.1\5.数组.cpp(15,10): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\code\Codes\C++\heima\Project\P1.1\5.数组.cpp(15,10): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+  6.函数.cpp
+  7.指针.cpp
+  add.cpp
+  正在生成代码...
+  P1.1.vcxproj -> D:\code\Codes\C++\heima\Project\x64\Debug\P1.1.exe
