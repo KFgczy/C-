@@ -1,0 +1,4 @@
+﻿  文件操作.cpp
+D:\Code\codes\C++\heima\C++文件操作\C++文件操作\文件操作.cpp(6,11): warning C4129: “C”: 不可识别的字符转义序列
+D:\Code\codes\C++\heima\C++文件操作\C++文件操作\文件操作.cpp(6,11): warning C4129: “c”: 不可识别的字符转义序列
+  C++文件操作.vcxproj -> D:\Code\codes\C++\heima\C++文件操作\x64\Debug\C++文件操作.exe
